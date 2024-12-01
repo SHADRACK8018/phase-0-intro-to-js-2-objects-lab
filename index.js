@@ -1,8 +1,7 @@
 // Write your solution in this file!
-
 let employee = {
     name: "Shadrack Kiplagat",
-    streetAddress: "Nandi Hills 216"
+    streetAddress: "Nandi Hills 216, 30301"
 };
 
 function updateEmployeeWithKeyAndValue(employee, key, value) {
